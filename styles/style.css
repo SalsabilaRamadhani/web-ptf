@@ -1,5 +1,7 @@
 :root {
-    --primary-color: #192D46;
+    --primary-color: #524c5a;;
+    --secondary-color: #efe5b8;
+    --success-color: #192D46;
 }
 
 html {
